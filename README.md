@@ -4,12 +4,17 @@
 To write a C program to find the length of the string .
 
 ## ALGORITHM:
-  1: Start
+  1: Start the program.
+  
   2: Read a string input from the user and store it in a character array str with a maximum
 capacity of 100 characters.
+
   3: Initialize a variable c to 0 to count the length of the string.
+  
   4: Iterate through each character ch in the str array, Increment c by 1.
+  
   5: Print the value of c as the length of the string.
+  
   6: Stop the program.
 
 ## program:
